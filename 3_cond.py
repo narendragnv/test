@@ -41,3 +41,5 @@ for item in a:
 dict1 = {"a": 1, "b": 2}
 for key in dict1.keys():
     print(f"value for key {key} is {dict1[key]}")
+
+
