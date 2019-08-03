@@ -42,4 +42,17 @@ dict1 = {"a": 1, "b": 2}
 for key in dict1.keys():
     print(f"value for key {key} is {dict1[key]}")
 
+a = 10
+if a == 10:
+    print("a is 10")
+else:
+    print(f"a is not 10")
 
+a = True
+if a is True:
+    print(f"a is True")
+
+if a == 10:
+    pass
+else:
+    print("a is not 10")
