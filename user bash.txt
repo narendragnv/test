@@ -1,0 +1,5 @@
+1. vi .bash_profile
+
+2.Add the path
+
+3. source .bash_profile

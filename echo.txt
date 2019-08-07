@@ -1,0 +1,13 @@
+echo ls   ==>  ls
+
+
+
+echo "$(ls)" ==>  It will display the contents
+
+demo.txt
+abc.sh
+
+echo '$(ls)'    ==> $(ls)
+
+
+echo $(ls)  ==>  demo.txt abc.sh
